@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [LibroNet - E-Library System](https://github.com/Amanda2001612/E-Library_System-LibroNet-)
 
-- 🌱 I’m currently learning **React, Figma, and Advanced .NET (WinForms + SQL), JavaScript**
+- 🌱 I’m currently learning **React, Figma, and Advanced .NET, C#, JavaScript**
 
 - 💬 Ask me about **Frontend design, UI/UX tools, educational system prototyping**
 
